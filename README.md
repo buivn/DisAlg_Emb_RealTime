@@ -7,12 +7,12 @@ Physical IRP model
 
 Simulink Model:
 <p align="center">
-  <img src="https://github.com/buivn/images/blob/master/IRPSieg2014/SimulinkModel.png" width="330">
+  <img src="https://github.com/buivn/images/blob/master/IRPSieg2014/SimulinkModel.png" width="370">
 </p>
 
 Function's structure of the control system:
 <p align="center">
-  <img src="https://github.com/buivn/images/blob/master/IRPSieg2014/DistributedControl.png" width="300">
+  <img src="https://github.com/buivn/images/blob/master/IRPSieg2014/DistributedControl.png" width="330">
 </p>
 The communication's schedule (TTCAN) among microControllers:
 <p align="center">
